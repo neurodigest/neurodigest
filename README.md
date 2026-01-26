@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 We build robots, break them, fix them, repeat — fueled by curiosity, caffeine, and a budget equal to her feelings about me (yeah… zero).
 
 
