@@ -1,5 +1,5 @@
 # 💫 About Us:
-We build projects, break them, fix them, repeat — fueled by curiosity, caffeine, and a budget equal to her feelings about me (yeah… zero).
+We build projects, break them, fix them, repeat, fueled by curiosity, caffeine, and a budget equal to her feelings about me (yeah… zero).
 
 
 ## 🌐 Socials:
