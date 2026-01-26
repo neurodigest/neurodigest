@@ -23,9 +23,8 @@ We build projects, break them, fix them, repeat, fueled by curiosity, caffeine, 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neurodigest&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!--
 ## 👥 The Team
-
 <table>
   <tr>
     <td width="15%" align="center" valign="top">
@@ -61,3 +60,4 @@ We build projects, break them, fix them, repeat, fueled by curiosity, caffeine, 
     </td>
   </tr>
 </table>
+-->
