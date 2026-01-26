@@ -24,28 +24,40 @@ We build robots, break them, fix them, repeat — fueled by curiosity, caffeine,
 ---
 [![](https://visitcount.itsvg.in/api?id=neurodigest&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
+## 👥 The Team
+
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/adnanosman.png" width="120px;" alt="Adnan Osman"/><br />
-      <sub><b>⚡ Adnan Osman</b></sub><br />
-      <sub><i>Team Lead | Programming</i></sub><br />
-      <br />
-      <sub>🧠 Software Architecture</sub><br />
-      <sub>🤖 AI/ML Integration</sub><br />
-      <sub>🎯 Competition Strategy</sub>
+    <td width="15%" align="center" valign="top">
+      <img src="https://github.com/identicons/app/adnan.png" width="100" height="100" style="border-radius:50%;" alt="Adnan">
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/kishorpaule.png" width="120px;" alt="Kishor Paule"/><br />
-      <sub><b>⚙️ Kishor Paule</b></sub><br />
-      <sub><i>Hardware & IoT</i></sub><br />
-      <br />
-      <sub>🔧 Embedded Systems</sub><br />
-      <sub>🦾 Robotics Hardware</sub><br />
-      <sub>📡 Sensors & IoT Integration</sub>
+    <td valign="top">
+      <h3>Adnan Osman</h3>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Team%20Lead-EF404E?style=for-the-badge&logoColor=white" alt="Team Lead">
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Programming">
+      </a>
+      <br><br>
+      Leading the software architecture and core programming implementation.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="15%" align="center" valign="top">
+      <img src="https://github.com/identicons/app/kishor.png" width="100" height="100" style="border-radius:50%;" alt="Kishor">
+    </td>
+    <td valign="top">
+      <h3>Kishor Paule</h3>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware">
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT">
+      </a>
+      <br><br>
+      Handling circuit design, sensors, and hardware integration.
     </td>
   </tr>
 </table>
-</div>
