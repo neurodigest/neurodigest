@@ -25,3 +25,27 @@ We build robots, break them, fix them, repeat — fueled by curiosity, caffeine,
 [![](https://visitcount.itsvg.in/api?id=neurodigest&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/adnanosman.png" width="120px;" alt="Adnan Osman"/><br />
+      <sub><b>⚡ Adnan Osman</b></sub><br />
+      <sub><i>Team Lead | Programming</i></sub><br />
+      <br />
+      <sub>🧠 Software Architecture</sub><br />
+      <sub>🤖 AI/ML Integration</sub><br />
+      <sub>🎯 Competition Strategy</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/kishorpaule.png" width="120px;" alt="Kishor Paule"/><br />
+      <sub><b>⚙️ Kishor Paule</b></sub><br />
+      <sub><i>Hardware & IoT</i></sub><br />
+      <br />
+      <sub>🔧 Embedded Systems</sub><br />
+      <sub>🦾 Robotics Hardware</sub><br />
+      <sub>📡 Sensors & IoT Integration</sub>
+    </td>
+  </tr>
+</table>
+</div>
