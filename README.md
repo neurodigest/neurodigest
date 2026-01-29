@@ -4,7 +4,7 @@
 
 <img src="Data Coding GIF by Pudgy Penguins.gif" width="400" alt="Coding Penguin">
 
-### *Building projects, breaking them, fixing them, repeating—fueled by curiosity, caffeine, and a budget equal to her feelings about me (yeah… zero)* 😅
+### *Building projects, breaking them, fixing them, repeating, fueled by curiosity, caffeine, and a budget equal to her feelings about me (yeah… zero)* 😅
 
 <br>
 
